@@ -1,0 +1,999 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2013"	"2013"	"Feb., 2013"	"2013/02"	4147	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Mar., 2013"	"2013/03"	4548	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"	"2013"	"2013"			8695	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2014"	"2014"	"Feb., 2014"	"2014/02"	3966	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2014"	"2014"	"Mar., 2014"	"2014/03"	4288	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"	"2014"	"2014"			8254	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2015"	"2015"	"Feb., 2015"	"2015/02"	4447	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2015"	"2015"	"Mar., 2015"	"2015/03"	4809	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"	"2015"	"2015"			9256	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2016"	"2016"	"Feb., 2016"	"2016/02"	4428	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2016"	"2016"	"Mar., 2016"	"2016/03"	4592	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"	"2016"	"2016"			9020	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2017"	"2017"	"Feb., 2017"	"2017/02"	4338	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2017"	"2017"	"Mar., 2017"	"2017/03"	4692	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"	"2017"	"2017"			9030	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2018"	"2018"	"Feb., 2018"	"2018/02"	4522	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2018"	"2018"	"Mar., 2018"	"2018/03"	4660	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"	"2018"	"2018"			9182	Not Applicable	Not Applicable
+"Total"	"Alabama"	"01"					53437	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Feb., 2013"	"2013/02"	309	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Mar., 2013"	"2013/03"	377	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"	"2013"	"2013"			686	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2014"	"2014"	"Feb., 2014"	"2014/02"	295	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2014"	"2014"	"Mar., 2014"	"2014/03"	327	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"	"2014"	"2014"			622	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2015"	"2015"	"Feb., 2015"	"2015/02"	345	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2015"	"2015"	"Mar., 2015"	"2015/03"	351	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"	"2015"	"2015"			696	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2016"	"2016"	"Feb., 2016"	"2016/02"	335	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2016"	"2016"	"Mar., 2016"	"2016/03"	384	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"	"2016"	"2016"			719	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2017"	"2017"	"Feb., 2017"	"2017/02"	300	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2017"	"2017"	"Mar., 2017"	"2017/03"	391	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"	"2017"	"2017"			691	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2018"	"2018"	"Feb., 2018"	"2018/02"	337	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2018"	"2018"	"Mar., 2018"	"2018/03"	361	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"	"2018"	"2018"			698	Not Applicable	Not Applicable
+"Total"	"Alaska"	"02"					4112	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Feb., 2013"	"2013/02"	4444	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Mar., 2013"	"2013/03"	4566	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"	"2013"	"2013"			9010	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2014"	"2014"	"Feb., 2014"	"2014/02"	4256	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2014"	"2014"	"Mar., 2014"	"2014/03"	4365	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"	"2014"	"2014"			8621	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2015"	"2015"	"Feb., 2015"	"2015/02"	4292	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2015"	"2015"	"Mar., 2015"	"2015/03"	4822	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"	"2015"	"2015"			9114	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2016"	"2016"	"Feb., 2016"	"2016/02"	5142	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2016"	"2016"	"Mar., 2016"	"2016/03"	5392	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"	"2016"	"2016"			10534	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2017"	"2017"	"Feb., 2017"	"2017/02"	4521	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2017"	"2017"	"Mar., 2017"	"2017/03"	5074	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"	"2017"	"2017"			9595	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2018"	"2018"	"Feb., 2018"	"2018/02"	4830	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2018"	"2018"	"Mar., 2018"	"2018/03"	5363	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"	"2018"	"2018"			10193	Not Applicable	Not Applicable
+"Total"	"Arizona"	"04"					57067	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Feb., 2013"	"2013/02"	2581	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Mar., 2013"	"2013/03"	2784	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"	"2013"	"2013"			5365	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2014"	"2014"	"Feb., 2014"	"2014/02"	2542	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2014"	"2014"	"Mar., 2014"	"2014/03"	2694	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"	"2014"	"2014"			5236	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2015"	"2015"	"Feb., 2015"	"2015/02"	2754	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2015"	"2015"	"Mar., 2015"	"2015/03"	2786	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"	"2015"	"2015"			5540	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2016"	"2016"	"Feb., 2016"	"2016/02"	2529	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2016"	"2016"	"Mar., 2016"	"2016/03"	2812	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"	"2016"	"2016"			5341	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2017"	"2017"	"Feb., 2017"	"2017/02"	2591	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2017"	"2017"	"Mar., 2017"	"2017/03"	2931	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"	"2017"	"2017"			5522	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2018"	"2018"	"Feb., 2018"	"2018/02"	2678	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2725	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"	"2018"	"2018"			5403	Not Applicable	Not Applicable
+"Total"	"Arkansas"	"05"					32407	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Feb., 2013"	"2013/02"	22284	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Mar., 2013"	"2013/03"	22412	Not Applicable	Not Applicable
+"Total"	"California"	"06"	"2013"	"2013"			44696	Not Applicable	Not Applicable
+	"California"	"06"	"2014"	"2014"	"Feb., 2014"	"2014/02"	19920	Not Applicable	Not Applicable
+	"California"	"06"	"2014"	"2014"	"Mar., 2014"	"2014/03"	21074	Not Applicable	Not Applicable
+"Total"	"California"	"06"	"2014"	"2014"			40994	Not Applicable	Not Applicable
+	"California"	"06"	"2015"	"2015"	"Feb., 2015"	"2015/02"	21619	Not Applicable	Not Applicable
+	"California"	"06"	"2015"	"2015"	"Mar., 2015"	"2015/03"	22674	Not Applicable	Not Applicable
+"Total"	"California"	"06"	"2015"	"2015"			44293	Not Applicable	Not Applicable
+	"California"	"06"	"2016"	"2016"	"Feb., 2016"	"2016/02"	22784	Not Applicable	Not Applicable
+	"California"	"06"	"2016"	"2016"	"Mar., 2016"	"2016/03"	23614	Not Applicable	Not Applicable
+"Total"	"California"	"06"	"2016"	"2016"			46398	Not Applicable	Not Applicable
+	"California"	"06"	"2017"	"2017"	"Feb., 2017"	"2017/02"	22388	Not Applicable	Not Applicable
+	"California"	"06"	"2017"	"2017"	"Mar., 2017"	"2017/03"	23453	Not Applicable	Not Applicable
+"Total"	"California"	"06"	"2017"	"2017"			45841	Not Applicable	Not Applicable
+	"California"	"06"	"2018"	"2018"	"Feb., 2018"	"2018/02"	22527	Not Applicable	Not Applicable
+	"California"	"06"	"2018"	"2018"	"Mar., 2018"	"2018/03"	24839	Not Applicable	Not Applicable
+"Total"	"California"	"06"	"2018"	"2018"			47366	Not Applicable	Not Applicable
+"Total"	"California"	"06"					269588	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Feb., 2013"	"2013/02"	2922	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Mar., 2013"	"2013/03"	2899	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"	"2013"	"2013"			5821	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2014"	"2014"	"Feb., 2014"	"2014/02"	2781	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2014"	"2014"	"Mar., 2014"	"2014/03"	3069	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"	"2014"	"2014"			5850	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2015"	"2015"	"Feb., 2015"	"2015/02"	2827	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2015"	"2015"	"Mar., 2015"	"2015/03"	3038	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"	"2015"	"2015"			5865	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2016"	"2016"	"Feb., 2016"	"2016/02"	3079	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2016"	"2016"	"Mar., 2016"	"2016/03"	3418	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"	"2016"	"2016"			6497	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2017"	"2017"	"Feb., 2017"	"2017/02"	3194	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2017"	"2017"	"Mar., 2017"	"2017/03"	3452	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"	"2017"	"2017"			6646	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2018"	"2018"	"Feb., 2018"	"2018/02"	3150	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2018"	"2018"	"Mar., 2018"	"2018/03"	3443	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"	"2018"	"2018"			6593	Not Applicable	Not Applicable
+"Total"	"Colorado"	"08"					37272	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Feb., 2013"	"2013/02"	2546	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Mar., 2013"	"2013/03"	2564	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"	"2013"	"2013"			5110	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2014"	"2014"	"Feb., 2014"	"2014/02"	2581	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2014"	"2014"	"Mar., 2014"	"2014/03"	2696	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"	"2014"	"2014"			5277	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2015"	"2015"	"Feb., 2015"	"2015/02"	2698	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2015"	"2015"	"Mar., 2015"	"2015/03"	2833	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"	"2015"	"2015"			5531	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2016"	"2016"	"Feb., 2016"	"2016/02"	2568	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2016"	"2016"	"Mar., 2016"	"2016/03"	2757	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"	"2016"	"2016"			5325	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2017"	"2017"	"Feb., 2017"	"2017/02"	2749	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2017"	"2017"	"Mar., 2017"	"2017/03"	2788	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"	"2017"	"2017"			5537	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2018"	"2018"	"Feb., 2018"	"2018/02"	2572	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2739	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"	"2018"	"2018"			5311	Not Applicable	Not Applicable
+"Total"	"Connecticut"	"09"					32091	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Feb., 2013"	"2013/02"	675	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Mar., 2013"	"2013/03"	725	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"	"2013"	"2013"			1400	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2014"	"2014"	"Feb., 2014"	"2014/02"	669	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2014"	"2014"	"Mar., 2014"	"2014/03"	737	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"	"2014"	"2014"			1406	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2015"	"2015"	"Feb., 2015"	"2015/02"	747	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2015"	"2015"	"Mar., 2015"	"2015/03"	746	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"	"2015"	"2015"			1493	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2016"	"2016"	"Feb., 2016"	"2016/02"	709	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2016"	"2016"	"Mar., 2016"	"2016/03"	793	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"	"2016"	"2016"			1502	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2017"	"2017"	"Feb., 2017"	"2017/02"	742	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2017"	"2017"	"Mar., 2017"	"2017/03"	817	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"	"2017"	"2017"			1559	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2018"	"2018"	"Feb., 2018"	"2018/02"	801	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2018"	"2018"	"Mar., 2018"	"2018/03"	849	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"	"2018"	"2018"			1650	Not Applicable	Not Applicable
+"Total"	"Delaware"	"10"					9010	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Feb., 2013"	"2013/02"	380	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Mar., 2013"	"2013/03"	410	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"	"2013"	"2013"			790	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2014"	"2014"	"Feb., 2014"	"2014/02"	362	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2014"	"2014"	"Mar., 2014"	"2014/03"	387	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"	"2014"	"2014"			749	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2015"	"2015"	"Feb., 2015"	"2015/02"	412	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2015"	"2015"	"Mar., 2015"	"2015/03"	438	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"	"2015"	"2015"			850	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2016"	"2016"	"Feb., 2016"	"2016/02"	398	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2016"	"2016"	"Mar., 2016"	"2016/03"	434	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"	"2016"	"2016"			832	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2017"	"2017"	"Feb., 2017"	"2017/02"	406	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2017"	"2017"	"Mar., 2017"	"2017/03"	475	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"	"2017"	"2017"			881	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2018"	"2018"	"Feb., 2018"	"2018/02"	390	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2018"	"2018"	"Mar., 2018"	"2018/03"	433	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"	"2018"	"2018"			823	Not Applicable	Not Applicable
+"Total"	"District of Columbia"	"11"					4925	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Feb., 2013"	"2013/02"	14829	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Mar., 2013"	"2013/03"	16351	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"2013"	"2013"			31180	Not Applicable	Not Applicable
+	"Florida"	"12"	"2014"	"2014"	"Feb., 2014"	"2014/02"	14734	Not Applicable	Not Applicable
+	"Florida"	"12"	"2014"	"2014"	"Mar., 2014"	"2014/03"	15905	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"2014"	"2014"			30639	Not Applicable	Not Applicable
+	"Florida"	"12"	"2015"	"2015"	"Feb., 2015"	"2015/02"	16062	Not Applicable	Not Applicable
+	"Florida"	"12"	"2015"	"2015"	"Mar., 2015"	"2015/03"	16969	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"2015"	"2015"			33031	Not Applicable	Not Applicable
+	"Florida"	"12"	"2016"	"2016"	"Feb., 2016"	"2016/02"	16574	Not Applicable	Not Applicable
+	"Florida"	"12"	"2016"	"2016"	"Mar., 2016"	"2016/03"	17821	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"2016"	"2016"			34395	Not Applicable	Not Applicable
+	"Florida"	"12"	"2017"	"2017"	"Feb., 2017"	"2017/02"	16487	Not Applicable	Not Applicable
+	"Florida"	"12"	"2017"	"2017"	"Mar., 2017"	"2017/03"	17924	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"2017"	"2017"			34411	Not Applicable	Not Applicable
+	"Florida"	"12"	"2018"	"2018"	"Feb., 2018"	"2018/02"	17210	Not Applicable	Not Applicable
+	"Florida"	"12"	"2018"	"2018"	"Mar., 2018"	"2018/03"	18018	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"	"2018"	"2018"			35228	Not Applicable	Not Applicable
+"Total"	"Florida"	"12"					198884	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Feb., 2013"	"2013/02"	6159	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Mar., 2013"	"2013/03"	6901	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"	"2013"	"2013"			13060	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2014"	"2014"	"Feb., 2014"	"2014/02"	6127	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2014"	"2014"	"Mar., 2014"	"2014/03"	6508	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"	"2014"	"2014"			12635	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2015"	"2015"	"Feb., 2015"	"2015/02"	6641	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2015"	"2015"	"Mar., 2015"	"2015/03"	7081	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"	"2015"	"2015"			13722	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2016"	"2016"	"Feb., 2016"	"2016/02"	6765	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2016"	"2016"	"Mar., 2016"	"2016/03"	7197	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"	"2016"	"2016"			13962	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2017"	"2017"	"Feb., 2017"	"2017/02"	6713	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2017"	"2017"	"Mar., 2017"	"2017/03"	7403	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"	"2017"	"2017"			14116	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2018"	"2018"	"Feb., 2018"	"2018/02"	7108	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2018"	"2018"	"Mar., 2018"	"2018/03"	7302	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"	"2018"	"2018"			14410	Not Applicable	Not Applicable
+"Total"	"Georgia"	"13"					81905	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Feb., 2013"	"2013/02"	870	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Mar., 2013"	"2013/03"	991	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"	"2013"	"2013"			1861	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2014"	"2014"	"Feb., 2014"	"2014/02"	862	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2014"	"2014"	"Mar., 2014"	"2014/03"	955	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"	"2014"	"2014"			1817	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2015"	"2015"	"Feb., 2015"	"2015/02"	915	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2015"	"2015"	"Mar., 2015"	"2015/03"	949	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"	"2015"	"2015"			1864	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2016"	"2016"	"Feb., 2016"	"2016/02"	909	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2016"	"2016"	"Mar., 2016"	"2016/03"	966	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"	"2016"	"2016"			1875	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2017"	"2017"	"Feb., 2017"	"2017/02"	878	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2017"	"2017"	"Mar., 2017"	"2017/03"	982	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"	"2017"	"2017"			1860	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2018"	"2018"	"Feb., 2018"	"2018/02"	927	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2018"	"2018"	"Mar., 2018"	"2018/03"	1060	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"	"2018"	"2018"			1987	Not Applicable	Not Applicable
+"Total"	"Hawaii"	"15"					11264	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Feb., 2013"	"2013/02"	991	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Mar., 2013"	"2013/03"	1094	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"	"2013"	"2013"			2085	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2014"	"2014"	"Feb., 2014"	"2014/02"	1010	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2014"	"2014"	"Mar., 2014"	"2014/03"	1115	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"	"2014"	"2014"			2125	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2015"	"2015"	"Feb., 2015"	"2015/02"	993	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2015"	"2015"	"Mar., 2015"	"2015/03"	1108	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"	"2015"	"2015"			2101	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1069	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1167	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"	"2016"	"2016"			2236	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1124	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1225	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"	"2017"	"2017"			2349	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1165	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	"Mar., 2018"	"2018/03"	1282	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"	"2018"	"2018"			2447	Not Applicable	Not Applicable
+"Total"	"Idaho"	"16"					13343	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Feb., 2013"	"2013/02"	8505	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Mar., 2013"	"2013/03"	9137	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"	"2013"	"2013"			17642	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2014"	"2014"	"Feb., 2014"	"2014/02"	8318	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2014"	"2014"	"Mar., 2014"	"2014/03"	9091	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"	"2014"	"2014"			17409	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2015"	"2015"	"Feb., 2015"	"2015/02"	8488	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2015"	"2015"	"Mar., 2015"	"2015/03"	9595	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"	"2015"	"2015"			18083	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2016"	"2016"	"Feb., 2016"	"2016/02"	9028	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2016"	"2016"	"Mar., 2016"	"2016/03"	9445	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"	"2016"	"2016"			18473	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2017"	"2017"	"Feb., 2017"	"2017/02"	9257	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2017"	"2017"	"Mar., 2017"	"2017/03"	9925	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"	"2017"	"2017"			19182	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2018"	"2018"	"Feb., 2018"	"2018/02"	9134	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2018"	"2018"	"Mar., 2018"	"2018/03"	9562	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"	"2018"	"2018"			18696	Not Applicable	Not Applicable
+"Total"	"Illinois"	"17"					109485	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Feb., 2013"	"2013/02"	5030	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Mar., 2013"	"2013/03"	5509	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"	"2013"	"2013"			10539	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2014"	"2014"	"Feb., 2014"	"2014/02"	4827	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2014"	"2014"	"Mar., 2014"	"2014/03"	5157	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"	"2014"	"2014"			9984	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2015"	"2015"	"Feb., 2015"	"2015/02"	5018	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2015"	"2015"	"Mar., 2015"	"2015/03"	5652	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"	"2015"	"2015"			10670	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2016"	"2016"	"Feb., 2016"	"2016/02"	5264	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2016"	"2016"	"Mar., 2016"	"2016/03"	5750	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"	"2016"	"2016"			11014	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2017"	"2017"	"Feb., 2017"	"2017/02"	5562	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2017"	"2017"	"Mar., 2017"	"2017/03"	6023	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"	"2017"	"2017"			11585	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2018"	"2018"	"Feb., 2018"	"2018/02"	5433	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2018"	"2018"	"Mar., 2018"	"2018/03"	5743	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"	"2018"	"2018"			11176	Not Applicable	Not Applicable
+"Total"	"Indiana"	"18"					64968	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Feb., 2013"	"2013/02"	2363	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Mar., 2013"	"2013/03"	2578	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"	"2013"	"2013"			4941	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2014"	"2014"	"Feb., 2014"	"2014/02"	2348	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2014"	"2014"	"Mar., 2014"	"2014/03"	2578	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"	"2014"	"2014"			4926	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2015"	"2015"	"Feb., 2015"	"2015/02"	2385	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2015"	"2015"	"Mar., 2015"	"2015/03"	2750	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"	"2015"	"2015"			5135	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2016"	"2016"	"Feb., 2016"	"2016/02"	2491	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2016"	"2016"	"Mar., 2016"	"2016/03"	2479	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"	"2016"	"2016"			4970	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2017"	"2017"	"Feb., 2017"	"2017/02"	2565	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2017"	"2017"	"Mar., 2017"	"2017/03"	2768	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"	"2017"	"2017"			5333	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2018"	"2018"	"Feb., 2018"	"2018/02"	2608	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2674	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"	"2018"	"2018"			5282	Not Applicable	Not Applicable
+"Total"	"Iowa"	"19"					30587	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Feb., 2013"	"2013/02"	2175	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Mar., 2013"	"2013/03"	2217	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"	"2013"	"2013"			4392	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2014"	"2014"	"Feb., 2014"	"2014/02"	2089	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2014"	"2014"	"Mar., 2014"	"2014/03"	2288	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"	"2014"	"2014"			4377	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2015"	"2015"	"Feb., 2015"	"2015/02"	2215	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2015"	"2015"	"Mar., 2015"	"2015/03"	2352	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"	"2015"	"2015"			4567	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2016"	"2016"	"Feb., 2016"	"2016/02"	2100	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2016"	"2016"	"Mar., 2016"	"2016/03"	2265	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"	"2016"	"2016"			4365	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2017"	"2017"	"Feb., 2017"	"2017/02"	2308	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2017"	"2017"	"Mar., 2017"	"2017/03"	2491	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"	"2017"	"2017"			4799	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2018"	"2018"	"Feb., 2018"	"2018/02"	2396	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2493	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"	"2018"	"2018"			4889	Not Applicable	Not Applicable
+"Total"	"Kansas"	"20"					27389	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Feb., 2013"	"2013/02"	3740	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Mar., 2013"	"2013/03"	3959	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"	"2013"	"2013"			7699	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2014"	"2014"	"Feb., 2014"	"2014/02"	3521	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2014"	"2014"	"Mar., 2014"	"2014/03"	3929	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"	"2014"	"2014"			7450	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2015"	"2015"	"Feb., 2015"	"2015/02"	3900	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2015"	"2015"	"Mar., 2015"	"2015/03"	4086	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"	"2015"	"2015"			7986	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2016"	"2016"	"Feb., 2016"	"2016/02"	3963	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2016"	"2016"	"Mar., 2016"	"2016/03"	4205	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"	"2016"	"2016"			8168	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2017"	"2017"	"Feb., 2017"	"2017/02"	4058	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2017"	"2017"	"Mar., 2017"	"2017/03"	4334	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"	"2017"	"2017"			8392	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2018"	"2018"	"Feb., 2018"	"2018/02"	3973	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2018"	"2018"	"Mar., 2018"	"2018/03"	4279	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"	"2018"	"2018"			8252	Not Applicable	Not Applicable
+"Total"	"Kentucky"	"21"					47947	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Feb., 2013"	"2013/02"	3450	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Mar., 2013"	"2013/03"	3907	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"	"2013"	"2013"			7357	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2014"	"2014"	"Feb., 2014"	"2014/02"	3644	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2014"	"2014"	"Mar., 2014"	"2014/03"	3712	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"	"2014"	"2014"			7356	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2015"	"2015"	"Feb., 2015"	"2015/02"	3705	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2015"	"2015"	"Mar., 2015"	"2015/03"	3849	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"	"2015"	"2015"			7554	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2016"	"2016"	"Feb., 2016"	"2016/02"	3634	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2016"	"2016"	"Mar., 2016"	"2016/03"	3890	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"	"2016"	"2016"			7524	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2017"	"2017"	"Feb., 2017"	"2017/02"	3656	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2017"	"2017"	"Mar., 2017"	"2017/03"	4062	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"	"2017"	"2017"			7718	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2018"	"2018"	"Feb., 2018"	"2018/02"	3751	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2018"	"2018"	"Mar., 2018"	"2018/03"	3754	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"	"2018"	"2018"			7505	Not Applicable	Not Applicable
+"Total"	"Louisiana"	"22"					45014	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Feb., 2013"	"2013/02"	1111	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Mar., 2013"	"2013/03"	1181	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"	"2013"	"2013"			2292	Not Applicable	Not Applicable
+	"Maine"	"23"	"2014"	"2014"	"Feb., 2014"	"2014/02"	1058	Not Applicable	Not Applicable
+	"Maine"	"23"	"2014"	"2014"	"Mar., 2014"	"2014/03"	1256	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"	"2014"	"2014"			2314	Not Applicable	Not Applicable
+	"Maine"	"23"	"2015"	"2015"	"Feb., 2015"	"2015/02"	1277	Not Applicable	Not Applicable
+	"Maine"	"23"	"2015"	"2015"	"Mar., 2015"	"2015/03"	1316	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"	"2015"	"2015"			2593	Not Applicable	Not Applicable
+	"Maine"	"23"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1096	Not Applicable	Not Applicable
+	"Maine"	"23"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1256	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"	"2016"	"2016"			2352	Not Applicable	Not Applicable
+	"Maine"	"23"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1187	Not Applicable	Not Applicable
+	"Maine"	"23"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1356	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"	"2017"	"2017"			2543	Not Applicable	Not Applicable
+	"Maine"	"23"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1230	Not Applicable	Not Applicable
+	"Maine"	"23"	"2018"	"2018"	"Mar., 2018"	"2018/03"	1273	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"	"2018"	"2018"			2503	Not Applicable	Not Applicable
+"Total"	"Maine"	"23"					14597	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Feb., 2013"	"2013/02"	3817	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Mar., 2013"	"2013/03"	4112	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"	"2013"	"2013"			7929	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2014"	"2014"	"Feb., 2014"	"2014/02"	3821	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2014"	"2014"	"Mar., 2014"	"2014/03"	4011	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"	"2014"	"2014"			7832	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2015"	"2015"	"Feb., 2015"	"2015/02"	3942	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2015"	"2015"	"Mar., 2015"	"2015/03"	4117	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"	"2015"	"2015"			8059	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2016"	"2016"	"Feb., 2016"	"2016/02"	4034	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2016"	"2016"	"Mar., 2016"	"2016/03"	4158	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"	"2016"	"2016"			8192	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2017"	"2017"	"Feb., 2017"	"2017/02"	4231	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2017"	"2017"	"Mar., 2017"	"2017/03"	4408	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"	"2017"	"2017"			8639	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2018"	"2018"	"Feb., 2018"	"2018/02"	4248	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2018"	"2018"	"Mar., 2018"	"2018/03"	4420	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"	"2018"	"2018"			8668	Not Applicable	Not Applicable
+"Total"	"Maryland"	"24"					49319	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Feb., 2013"	"2013/02"	4663	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Mar., 2013"	"2013/03"	4667	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"	"2013"	"2013"			9330	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2014"	"2014"	"Feb., 2014"	"2014/02"	4607	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2014"	"2014"	"Mar., 2014"	"2014/03"	5003	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"	"2014"	"2014"			9610	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2015"	"2015"	"Feb., 2015"	"2015/02"	5232	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2015"	"2015"	"Mar., 2015"	"2015/03"	5361	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"	"2015"	"2015"			10593	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2016"	"2016"	"Feb., 2016"	"2016/02"	4828	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2016"	"2016"	"Mar., 2016"	"2016/03"	5115	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"	"2016"	"2016"			9943	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2017"	"2017"	"Feb., 2017"	"2017/02"	5199	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2017"	"2017"	"Mar., 2017"	"2017/03"	5279	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"	"2017"	"2017"			10478	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2018"	"2018"	"Feb., 2018"	"2018/02"	4965	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2018"	"2018"	"Mar., 2018"	"2018/03"	5224	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"	"2018"	"2018"			10189	Not Applicable	Not Applicable
+"Total"	"Massachusetts"	"25"					60143	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Feb., 2013"	"2013/02"	7987	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Mar., 2013"	"2013/03"	8297	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"	"2013"	"2013"			16284	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2014"	"2014"	"Feb., 2014"	"2014/02"	7436	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2014"	"2014"	"Mar., 2014"	"2014/03"	8111	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"	"2014"	"2014"			15547	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2015"	"2015"	"Feb., 2015"	"2015/02"	7714	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2015"	"2015"	"Mar., 2015"	"2015/03"	8640	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"	"2015"	"2015"			16354	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2016"	"2016"	"Feb., 2016"	"2016/02"	8035	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2016"	"2016"	"Mar., 2016"	"2016/03"	8509	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"	"2016"	"2016"			16544	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2017"	"2017"	"Feb., 2017"	"2017/02"	8067	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2017"	"2017"	"Mar., 2017"	"2017/03"	8957	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"	"2017"	"2017"			17024	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2018"	"2018"	"Feb., 2018"	"2018/02"	8420	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2018"	"2018"	"Mar., 2018"	"2018/03"	8830	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"	"2018"	"2018"			17250	Not Applicable	Not Applicable
+"Total"	"Michigan"	"26"					99003	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Feb., 2013"	"2013/02"	3292	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Mar., 2013"	"2013/03"	3567	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"	"2013"	"2013"			6859	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2014"	"2014"	"Feb., 2014"	"2014/02"	3205	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2014"	"2014"	"Mar., 2014"	"2014/03"	3636	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"	"2014"	"2014"			6841	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2015"	"2015"	"Feb., 2015"	"2015/02"	3391	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2015"	"2015"	"Mar., 2015"	"2015/03"	3870	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"	"2015"	"2015"			7261	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2016"	"2016"	"Feb., 2016"	"2016/02"	3509	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2016"	"2016"	"Mar., 2016"	"2016/03"	3736	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"	"2016"	"2016"			7245	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2017"	"2017"	"Feb., 2017"	"2017/02"	3698	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2017"	"2017"	"Mar., 2017"	"2017/03"	3939	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"	"2017"	"2017"			7637	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2018"	"2018"	"Feb., 2018"	"2018/02"	3710	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2018"	"2018"	"Mar., 2018"	"2018/03"	3777	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"	"2018"	"2018"			7487	Not Applicable	Not Applicable
+"Total"	"Minnesota"	"27"					43330	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Feb., 2013"	"2013/02"	2498	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Mar., 2013"	"2013/03"	2819	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"	"2013"	"2013"			5317	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2014"	"2014"	"Feb., 2014"	"2014/02"	2479	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2014"	"2014"	"Mar., 2014"	"2014/03"	2611	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"	"2014"	"2014"			5090	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2015"	"2015"	"Feb., 2015"	"2015/02"	2743	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2015"	"2015"	"Mar., 2015"	"2015/03"	2841	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"	"2015"	"2015"			5584	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2016"	"2016"	"Feb., 2016"	"2016/02"	2600	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2016"	"2016"	"Mar., 2016"	"2016/03"	2811	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"	"2016"	"2016"			5411	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2017"	"2017"	"Feb., 2017"	"2017/02"	2623	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2017"	"2017"	"Mar., 2017"	"2017/03"	2839	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"	"2017"	"2017"			5462	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2018"	"2018"	"Feb., 2018"	"2018/02"	2648	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2742	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"	"2018"	"2018"			5390	Not Applicable	Not Applicable
+"Total"	"Mississippi"	"28"					32254	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Feb., 2013"	"2013/02"	4817	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Mar., 2013"	"2013/03"	5197	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"	"2013"	"2013"			10014	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2014"	"2014"	"Feb., 2014"	"2014/02"	4528	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2014"	"2014"	"Mar., 2014"	"2014/03"	5178	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"	"2014"	"2014"			9706	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2015"	"2015"	"Feb., 2015"	"2015/02"	5054	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2015"	"2015"	"Mar., 2015"	"2015/03"	5485	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"	"2015"	"2015"			10539	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2016"	"2016"	"Feb., 2016"	"2016/02"	4854	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2016"	"2016"	"Mar., 2016"	"2016/03"	5220	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"	"2016"	"2016"			10074	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2017"	"2017"	"Feb., 2017"	"2017/02"	5280	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2017"	"2017"	"Mar., 2017"	"2017/03"	5604	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"	"2017"	"2017"			10884	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2018"	"2018"	"Feb., 2018"	"2018/02"	5418	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2018"	"2018"	"Mar., 2018"	"2018/03"	5527	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"	"2018"	"2018"			10945	Not Applicable	Not Applicable
+"Total"	"Missouri"	"29"					62162	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Feb., 2013"	"2013/02"	771	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Mar., 2013"	"2013/03"	855	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"	"2013"	"2013"			1626	Not Applicable	Not Applicable
+	"Montana"	"30"	"2014"	"2014"	"Feb., 2014"	"2014/02"	742	Not Applicable	Not Applicable
+	"Montana"	"30"	"2014"	"2014"	"Mar., 2014"	"2014/03"	843	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"	"2014"	"2014"			1585	Not Applicable	Not Applicable
+	"Montana"	"30"	"2015"	"2015"	"Feb., 2015"	"2015/02"	748	Not Applicable	Not Applicable
+	"Montana"	"30"	"2015"	"2015"	"Mar., 2015"	"2015/03"	827	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"	"2015"	"2015"			1575	Not Applicable	Not Applicable
+	"Montana"	"30"	"2016"	"2016"	"Feb., 2016"	"2016/02"	831	Not Applicable	Not Applicable
+	"Montana"	"30"	"2016"	"2016"	"Mar., 2016"	"2016/03"	832	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"	"2016"	"2016"			1663	Not Applicable	Not Applicable
+	"Montana"	"30"	"2017"	"2017"	"Feb., 2017"	"2017/02"	918	Not Applicable	Not Applicable
+	"Montana"	"30"	"2017"	"2017"	"Mar., 2017"	"2017/03"	929	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"	"2017"	"2017"			1847	Not Applicable	Not Applicable
+	"Montana"	"30"	"2018"	"2018"	"Feb., 2018"	"2018/02"	837	Not Applicable	Not Applicable
+	"Montana"	"30"	"2018"	"2018"	"Mar., 2018"	"2018/03"	845	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"	"2018"	"2018"			1682	Not Applicable	Not Applicable
+"Total"	"Montana"	"30"					9978	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Feb., 2013"	"2013/02"	1344	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Mar., 2013"	"2013/03"	1372	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"	"2013"	"2013"			2716	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2014"	"2014"	"Feb., 2014"	"2014/02"	1328	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2014"	"2014"	"Mar., 2014"	"2014/03"	1428	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"	"2014"	"2014"			2756	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2015"	"2015"	"Feb., 2015"	"2015/02"	1409	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2015"	"2015"	"Mar., 2015"	"2015/03"	1536	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"	"2015"	"2015"			2945	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1268	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1376	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"	"2016"	"2016"			2644	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1478	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1444	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"	"2017"	"2017"			2922	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1385	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2018"	"2018"	"Mar., 2018"	"2018/03"	1538	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"	"2018"	"2018"			2923	Not Applicable	Not Applicable
+"Total"	"Nebraska"	"31"					16906	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Feb., 2013"	"2013/02"	1856	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Mar., 2013"	"2013/03"	1935	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"	"2013"	"2013"			3791	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2014"	"2014"	"Feb., 2014"	"2014/02"	1780	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2014"	"2014"	"Mar., 2014"	"2014/03"	1912	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"	"2014"	"2014"			3692	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2015"	"2015"	"Feb., 2015"	"2015/02"	1777	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2015"	"2015"	"Mar., 2015"	"2015/03"	2061	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"	"2015"	"2015"			3838	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2016"	"2016"	"Feb., 2016"	"2016/02"	2073	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2016"	"2016"	"Mar., 2016"	"2016/03"	2115	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"	"2016"	"2016"			4188	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1990	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2017"	"2017"	"Mar., 2017"	"2017/03"	2158	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"	"2017"	"2017"			4148	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1931	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2213	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"	"2018"	"2018"			4144	Not Applicable	Not Applicable
+"Total"	"Nevada"	"32"					23801	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Feb., 2013"	"2013/02"	938	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Mar., 2013"	"2013/03"	952	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"	"2013"	"2013"			1890	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2014"	"2014"	"Feb., 2014"	"2014/02"	931	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2014"	"2014"	"Mar., 2014"	"2014/03"	972	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"	"2014"	"2014"			1903	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2015"	"2015"	"Feb., 2015"	"2015/02"	1092	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2015"	"2015"	"Mar., 2015"	"2015/03"	1043	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"	"2015"	"2015"			2135	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1063	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1080	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"	"2016"	"2016"			2143	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1058	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1164	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"	"2017"	"2017"			2222	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1105	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2018"	"2018"	"Mar., 2018"	"2018/03"	1060	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"	"2018"	"2018"			2165	Not Applicable	Not Applicable
+"Total"	"New Hampshire"	"33"					12458	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Feb., 2013"	"2013/02"	6106	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Mar., 2013"	"2013/03"	6446	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"	"2013"	"2013"			12552	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2014"	"2014"	"Feb., 2014"	"2014/02"	5825	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2014"	"2014"	"Mar., 2014"	"2014/03"	6345	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"	"2014"	"2014"			12170	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2015"	"2015"	"Feb., 2015"	"2015/02"	6379	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2015"	"2015"	"Mar., 2015"	"2015/03"	6561	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"	"2015"	"2015"			12940	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2016"	"2016"	"Feb., 2016"	"2016/02"	6056	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2016"	"2016"	"Mar., 2016"	"2016/03"	6542	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"	"2016"	"2016"			12598	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2017"	"2017"	"Feb., 2017"	"2017/02"	6400	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2017"	"2017"	"Mar., 2017"	"2017/03"	6761	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"	"2017"	"2017"			13161	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2018"	"2018"	"Feb., 2018"	"2018/02"	6452	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2018"	"2018"	"Mar., 2018"	"2018/03"	6680	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"	"2018"	"2018"			13132	Not Applicable	Not Applicable
+"Total"	"New Jersey"	"34"					76553	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Feb., 2013"	"2013/02"	1399	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Mar., 2013"	"2013/03"	1542	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"	"2013"	"2013"			2941	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2014"	"2014"	"Feb., 2014"	"2014/02"	1474	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2014"	"2014"	"Mar., 2014"	"2014/03"	1545	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"	"2014"	"2014"			3019	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2015"	"2015"	"Feb., 2015"	"2015/02"	1443	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2015"	"2015"	"Mar., 2015"	"2015/03"	1598	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"	"2015"	"2015"			3041	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1563	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1765	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"	"2016"	"2016"			3328	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1652	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1679	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"	"2017"	"2017"			3331	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1621	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2018"	"2018"	"Mar., 2018"	"2018/03"	1692	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"	"2018"	"2018"			3313	Not Applicable	Not Applicable
+"Total"	"New Mexico"	"35"					18973	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Feb., 2013"	"2013/02"	12666	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Mar., 2013"	"2013/03"	13382	Not Applicable	Not Applicable
+"Total"	"New York"	"36"	"2013"	"2013"			26048	Not Applicable	Not Applicable
+	"New York"	"36"	"2014"	"2014"	"Feb., 2014"	"2014/02"	12351	Not Applicable	Not Applicable
+	"New York"	"36"	"2014"	"2014"	"Mar., 2014"	"2014/03"	13192	Not Applicable	Not Applicable
+"Total"	"New York"	"36"	"2014"	"2014"			25543	Not Applicable	Not Applicable
+	"New York"	"36"	"2015"	"2015"	"Feb., 2015"	"2015/02"	13486	Not Applicable	Not Applicable
+	"New York"	"36"	"2015"	"2015"	"Mar., 2015"	"2015/03"	14067	Not Applicable	Not Applicable
+"Total"	"New York"	"36"	"2015"	"2015"			27553	Not Applicable	Not Applicable
+	"New York"	"36"	"2016"	"2016"	"Feb., 2016"	"2016/02"	12972	Not Applicable	Not Applicable
+	"New York"	"36"	"2016"	"2016"	"Mar., 2016"	"2016/03"	13964	Not Applicable	Not Applicable
+"Total"	"New York"	"36"	"2016"	"2016"			26936	Not Applicable	Not Applicable
+	"New York"	"36"	"2017"	"2017"	"Feb., 2017"	"2017/02"	12885	Not Applicable	Not Applicable
+	"New York"	"36"	"2017"	"2017"	"Mar., 2017"	"2017/03"	13752	Not Applicable	Not Applicable
+"Total"	"New York"	"36"	"2017"	"2017"			26637	Not Applicable	Not Applicable
+	"New York"	"36"	"2018"	"2018"	"Feb., 2018"	"2018/02"	13326	Not Applicable	Not Applicable
+	"New York"	"36"	"2018"	"2018"	"Mar., 2018"	"2018/03"	13810	Not Applicable	Not Applicable
+"Total"	"New York"	"36"	"2018"	"2018"			27136	Not Applicable	Not Applicable
+"Total"	"New York"	"36"					159853	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Feb., 2013"	"2013/02"	6815	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Mar., 2013"	"2013/03"	7537	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"	"2013"	"2013"			14352	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2014"	"2014"	"Feb., 2014"	"2014/02"	6948	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2014"	"2014"	"Mar., 2014"	"2014/03"	7443	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"	"2014"	"2014"			14391	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2015"	"2015"	"Feb., 2015"	"2015/02"	7602	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2015"	"2015"	"Mar., 2015"	"2015/03"	8094	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"	"2015"	"2015"			15696	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2016"	"2016"	"Feb., 2016"	"2016/02"	7638	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2016"	"2016"	"Mar., 2016"	"2016/03"	7999	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"	"2016"	"2016"			15637	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2017"	"2017"	"Feb., 2017"	"2017/02"	7644	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2017"	"2017"	"Mar., 2017"	"2017/03"	8768	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"	"2017"	"2017"			16412	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2018"	"2018"	"Feb., 2018"	"2018/02"	7828	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2018"	"2018"	"Mar., 2018"	"2018/03"	8041	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"	"2018"	"2018"			15869	Not Applicable	Not Applicable
+"Total"	"North Carolina"	"37"					92357	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Feb., 2013"	"2013/02"	509	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Mar., 2013"	"2013/03"	526	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"	"2013"	"2013"			1035	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2014"	"2014"	"Feb., 2014"	"2014/02"	493	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2014"	"2014"	"Mar., 2014"	"2014/03"	569	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"	"2014"	"2014"			1062	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2015"	"2015"	"Feb., 2015"	"2015/02"	491	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2015"	"2015"	"Mar., 2015"	"2015/03"	570	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"	"2015"	"2015"			1061	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2016"	"2016"	"Feb., 2016"	"2016/02"	499	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2016"	"2016"	"Mar., 2016"	"2016/03"	561	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"	"2016"	"2016"			1060	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2017"	"2017"	"Feb., 2017"	"2017/02"	520	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2017"	"2017"	"Mar., 2017"	"2017/03"	569	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"	"2017"	"2017"			1089	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2018"	"2018"	"Feb., 2018"	"2018/02"	516	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2018"	"2018"	"Mar., 2018"	"2018/03"	558	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"	"2018"	"2018"			1074	Not Applicable	Not Applicable
+"Total"	"North Dakota"	"38"					6381	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Feb., 2013"	"2013/02"	9410	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Mar., 2013"	"2013/03"	10361	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"	"2013"	"2013"			19771	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2014"	"2014"	"Feb., 2014"	"2014/02"	9155	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2014"	"2014"	"Mar., 2014"	"2014/03"	9952	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"	"2014"	"2014"			19107	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2015"	"2015"	"Feb., 2015"	"2015/02"	9830	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2015"	"2015"	"Mar., 2015"	"2015/03"	10319	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"	"2015"	"2015"			20149	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2016"	"2016"	"Feb., 2016"	"2016/02"	9838	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2016"	"2016"	"Mar., 2016"	"2016/03"	10696	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"	"2016"	"2016"			20534	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2017"	"2017"	"Feb., 2017"	"2017/02"	10370	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2017"	"2017"	"Mar., 2017"	"2017/03"	11259	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"	"2017"	"2017"			21629	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2018"	"2018"	"Feb., 2018"	"2018/02"	10167	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2018"	"2018"	"Mar., 2018"	"2018/03"	10599	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"	"2018"	"2018"			20766	Not Applicable	Not Applicable
+"Total"	"Ohio"	"39"					121956	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Feb., 2013"	"2013/02"	3258	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Mar., 2013"	"2013/03"	3392	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"	"2013"	"2013"			6650	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2014"	"2014"	"Feb., 2014"	"2014/02"	3188	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2014"	"2014"	"Mar., 2014"	"2014/03"	3574	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"	"2014"	"2014"			6762	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2015"	"2015"	"Feb., 2015"	"2015/02"	3389	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2015"	"2015"	"Mar., 2015"	"2015/03"	3636	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"	"2015"	"2015"			7025	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2016"	"2016"	"Feb., 2016"	"2016/02"	3311	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2016"	"2016"	"Mar., 2016"	"2016/03"	3503	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"	"2016"	"2016"			6814	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2017"	"2017"	"Feb., 2017"	"2017/02"	3484	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2017"	"2017"	"Mar., 2017"	"2017/03"	3598	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"	"2017"	"2017"			7082	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2018"	"2018"	"Feb., 2018"	"2018/02"	3608	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2018"	"2018"	"Mar., 2018"	"2018/03"	3536	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"	"2018"	"2018"			7144	Not Applicable	Not Applicable
+"Total"	"Oklahoma"	"40"					41477	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Feb., 2013"	"2013/02"	2846	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Mar., 2013"	"2013/03"	3066	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"	"2013"	"2013"			5912	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2014"	"2014"	"Feb., 2014"	"2014/02"	2737	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2014"	"2014"	"Mar., 2014"	"2014/03"	2976	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"	"2014"	"2014"			5713	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2015"	"2015"	"Feb., 2015"	"2015/02"	2974	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2015"	"2015"	"Mar., 2015"	"2015/03"	3091	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"	"2015"	"2015"			6065	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2016"	"2016"	"Feb., 2016"	"2016/02"	2883	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2016"	"2016"	"Mar., 2016"	"2016/03"	3229	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"	"2016"	"2016"			6112	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2017"	"2017"	"Feb., 2017"	"2017/02"	3050	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2017"	"2017"	"Mar., 2017"	"2017/03"	3172	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"	"2017"	"2017"			6222	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2018"	"2018"	"Feb., 2018"	"2018/02"	2819	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2018"	"2018"	"Mar., 2018"	"2018/03"	3297	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"	"2018"	"2018"			6116	Not Applicable	Not Applicable
+"Total"	"Oregon"	"41"					36140	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Feb., 2013"	"2013/02"	11182	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Mar., 2013"	"2013/03"	11799	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"	"2013"	"2013"			22981	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2014"	"2014"	"Feb., 2014"	"2014/02"	10532	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2014"	"2014"	"Mar., 2014"	"2014/03"	11286	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"	"2014"	"2014"			21818	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2015"	"2015"	"Feb., 2015"	"2015/02"	11581	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2015"	"2015"	"Mar., 2015"	"2015/03"	12275	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"	"2015"	"2015"			23856	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2016"	"2016"	"Feb., 2016"	"2016/02"	11144	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2016"	"2016"	"Mar., 2016"	"2016/03"	11855	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"	"2016"	"2016"			22999	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2017"	"2017"	"Feb., 2017"	"2017/02"	11547	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2017"	"2017"	"Mar., 2017"	"2017/03"	12419	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"	"2017"	"2017"			23966	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2018"	"2018"	"Feb., 2018"	"2018/02"	11436	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2018"	"2018"	"Mar., 2018"	"2018/03"	11933	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"	"2018"	"2018"			23369	Not Applicable	Not Applicable
+"Total"	"Pennsylvania"	"42"					138989	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Feb., 2013"	"2013/02"	794	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Mar., 2013"	"2013/03"	892	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"	"2013"	"2013"			1686	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2014"	"2014"	"Feb., 2014"	"2014/02"	794	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2014"	"2014"	"Mar., 2014"	"2014/03"	878	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"	"2014"	"2014"			1672	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2015"	"2015"	"Feb., 2015"	"2015/02"	890	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2015"	"2015"	"Mar., 2015"	"2015/03"	936	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"	"2015"	"2015"			1826	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2016"	"2016"	"Feb., 2016"	"2016/02"	857	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2016"	"2016"	"Mar., 2016"	"2016/03"	855	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"	"2016"	"2016"			1712	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2017"	"2017"	"Feb., 2017"	"2017/02"	900	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2017"	"2017"	"Mar., 2017"	"2017/03"	927	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"	"2017"	"2017"			1827	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2018"	"2018"	"Feb., 2018"	"2018/02"	813	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2018"	"2018"	"Mar., 2018"	"2018/03"	821	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"	"2018"	"2018"			1634	Not Applicable	Not Applicable
+"Total"	"Rhode Island"	"44"					10357	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Feb., 2013"	"2013/02"	3600	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Mar., 2013"	"2013/03"	4214	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"	"2013"	"2013"			7814	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2014"	"2014"	"Feb., 2014"	"2014/02"	3634	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2014"	"2014"	"Mar., 2014"	"2014/03"	3901	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"	"2014"	"2014"			7535	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2015"	"2015"	"Feb., 2015"	"2015/02"	4023	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2015"	"2015"	"Mar., 2015"	"2015/03"	4274	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"	"2015"	"2015"			8297	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2016"	"2016"	"Feb., 2016"	"2016/02"	4163	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2016"	"2016"	"Mar., 2016"	"2016/03"	4152	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"	"2016"	"2016"			8315	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2017"	"2017"	"Feb., 2017"	"2017/02"	3932	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2017"	"2017"	"Mar., 2017"	"2017/03"	4378	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"	"2017"	"2017"			8310	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2018"	"2018"	"Feb., 2018"	"2018/02"	4244	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2018"	"2018"	"Mar., 2018"	"2018/03"	4446	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"	"2018"	"2018"			8690	Not Applicable	Not Applicable
+"Total"	"South Carolina"	"45"					48961	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Feb., 2013"	"2013/02"	622	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Mar., 2013"	"2013/03"	633	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"	"2013"	"2013"			1255	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2014"	"2014"	"Feb., 2014"	"2014/02"	603	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2014"	"2014"	"Mar., 2014"	"2014/03"	664	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"	"2014"	"2014"			1267	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2015"	"2015"	"Feb., 2015"	"2015/02"	611	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2015"	"2015"	"Mar., 2015"	"2015/03"	697	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"	"2015"	"2015"			1308	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2016"	"2016"	"Feb., 2016"	"2016/02"	627	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2016"	"2016"	"Mar., 2016"	"2016/03"	707	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"	"2016"	"2016"			1334	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2017"	"2017"	"Feb., 2017"	"2017/02"	695	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2017"	"2017"	"Mar., 2017"	"2017/03"	735	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"	"2017"	"2017"			1430	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2018"	"2018"	"Feb., 2018"	"2018/02"	639	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2018"	"2018"	"Mar., 2018"	"2018/03"	715	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"	"2018"	"2018"			1354	Not Applicable	Not Applicable
+"Total"	"South Dakota"	"46"					7948	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Feb., 2013"	"2013/02"	5176	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Mar., 2013"	"2013/03"	5619	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"	"2013"	"2013"			10795	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2014"	"2014"	"Feb., 2014"	"2014/02"	5208	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2014"	"2014"	"Mar., 2014"	"2014/03"	5504	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"	"2014"	"2014"			10712	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2015"	"2015"	"Feb., 2015"	"2015/02"	5615	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2015"	"2015"	"Mar., 2015"	"2015/03"	5812	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"	"2015"	"2015"			11427	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2016"	"2016"	"Feb., 2016"	"2016/02"	5625	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2016"	"2016"	"Mar., 2016"	"2016/03"	5931	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"	"2016"	"2016"			11556	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2017"	"2017"	"Feb., 2017"	"2017/02"	5731	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2017"	"2017"	"Mar., 2017"	"2017/03"	6371	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"	"2017"	"2017"			12102	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2018"	"2018"	"Feb., 2018"	"2018/02"	5924	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2018"	"2018"	"Mar., 2018"	"2018/03"	5954	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"	"2018"	"2018"			11878	Not Applicable	Not Applicable
+"Total"	"Tennessee"	"47"					68470	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Feb., 2013"	"2013/02"	14333	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Mar., 2013"	"2013/03"	15763	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"	"2013"	"2013"			30096	Not Applicable	Not Applicable
+	"Texas"	"48"	"2014"	"2014"	"Feb., 2014"	"2014/02"	14948	Not Applicable	Not Applicable
+	"Texas"	"48"	"2014"	"2014"	"Mar., 2014"	"2014/03"	16101	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"	"2014"	"2014"			31049	Not Applicable	Not Applicable
+	"Texas"	"48"	"2015"	"2015"	"Feb., 2015"	"2015/02"	15484	Not Applicable	Not Applicable
+	"Texas"	"48"	"2015"	"2015"	"Mar., 2015"	"2015/03"	16979	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"	"2015"	"2015"			32463	Not Applicable	Not Applicable
+	"Texas"	"48"	"2016"	"2016"	"Feb., 2016"	"2016/02"	16102	Not Applicable	Not Applicable
+	"Texas"	"48"	"2016"	"2016"	"Mar., 2016"	"2016/03"	16726	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"	"2016"	"2016"			32828	Not Applicable	Not Applicable
+	"Texas"	"48"	"2017"	"2017"	"Feb., 2017"	"2017/02"	16344	Not Applicable	Not Applicable
+	"Texas"	"48"	"2017"	"2017"	"Mar., 2017"	"2017/03"	17424	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"	"2017"	"2017"			33768	Not Applicable	Not Applicable
+	"Texas"	"48"	"2018"	"2018"	"Feb., 2018"	"2018/02"	17045	Not Applicable	Not Applicable
+	"Texas"	"48"	"2018"	"2018"	"Mar., 2018"	"2018/03"	17234	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"	"2018"	"2018"			34279	Not Applicable	Not Applicable
+"Total"	"Texas"	"48"					194483	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Feb., 2013"	"2013/02"	1331	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Mar., 2013"	"2013/03"	1452	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"	"2013"	"2013"			2783	Not Applicable	Not Applicable
+	"Utah"	"49"	"2014"	"2014"	"Feb., 2014"	"2014/02"	1261	Not Applicable	Not Applicable
+	"Utah"	"49"	"2014"	"2014"	"Mar., 2014"	"2014/03"	1386	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"	"2014"	"2014"			2647	Not Applicable	Not Applicable
+	"Utah"	"49"	"2015"	"2015"	"Feb., 2015"	"2015/02"	1416	Not Applicable	Not Applicable
+	"Utah"	"49"	"2015"	"2015"	"Mar., 2015"	"2015/03"	1493	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"	"2015"	"2015"			2909	Not Applicable	Not Applicable
+	"Utah"	"49"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1533	Not Applicable	Not Applicable
+	"Utah"	"49"	"2016"	"2016"	"Mar., 2016"	"2016/03"	1626	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"	"2016"	"2016"			3159	Not Applicable	Not Applicable
+	"Utah"	"49"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1448	Not Applicable	Not Applicable
+	"Utah"	"49"	"2017"	"2017"	"Mar., 2017"	"2017/03"	1597	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"	"2017"	"2017"			3045	Not Applicable	Not Applicable
+	"Utah"	"49"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1496	Not Applicable	Not Applicable
+	"Utah"	"49"	"2018"	"2018"	"Mar., 2018"	"2018/03"	1554	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"	"2018"	"2018"			3050	Not Applicable	Not Applicable
+"Total"	"Utah"	"49"					17593	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Feb., 2013"	"2013/02"	466	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Mar., 2013"	"2013/03"	476	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"	"2013"	"2013"			942	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2014"	"2014"	"Feb., 2014"	"2014/02"	479	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2014"	"2014"	"Mar., 2014"	"2014/03"	498	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"	"2014"	"2014"			977	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2015"	"2015"	"Feb., 2015"	"2015/02"	524	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2015"	"2015"	"Mar., 2015"	"2015/03"	540	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"	"2015"	"2015"			1064	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2016"	"2016"	"Feb., 2016"	"2016/02"	489	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2016"	"2016"	"Mar., 2016"	"2016/03"	558	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"	"2016"	"2016"			1047	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2017"	"2017"	"Feb., 2017"	"2017/02"	480	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2017"	"2017"	"Mar., 2017"	"2017/03"	576	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"	"2017"	"2017"			1056	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2018"	"2018"	"Feb., 2018"	"2018/02"	513	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2018"	"2018"	"Mar., 2018"	"2018/03"	516	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"	"2018"	"2018"			1029	Not Applicable	Not Applicable
+"Total"	"Vermont"	"50"					6115	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Feb., 2013"	"2013/02"	5195	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Mar., 2013"	"2013/03"	5535	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"	"2013"	"2013"			10730	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2014"	"2014"	"Feb., 2014"	"2014/02"	5098	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2014"	"2014"	"Mar., 2014"	"2014/03"	5608	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"	"2014"	"2014"			10706	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2015"	"2015"	"Feb., 2015"	"2015/02"	5602	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2015"	"2015"	"Mar., 2015"	"2015/03"	5791	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"	"2015"	"2015"			11393	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2016"	"2016"	"Feb., 2016"	"2016/02"	5520	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2016"	"2016"	"Mar., 2016"	"2016/03"	5914	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"	"2016"	"2016"			11434	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2017"	"2017"	"Feb., 2017"	"2017/02"	5662	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2017"	"2017"	"Mar., 2017"	"2017/03"	6243	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"	"2017"	"2017"			11905	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2018"	"2018"	"Feb., 2018"	"2018/02"	5764	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2018"	"2018"	"Mar., 2018"	"2018/03"	6011	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"	"2018"	"2018"			11775	Not Applicable	Not Applicable
+"Total"	"Virginia"	"51"					67943	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Feb., 2013"	"2013/02"	4286	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Mar., 2013"	"2013/03"	4571	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"	"2013"	"2013"			8857	Not Applicable	Not Applicable
+	"Washington"	"53"	"2014"	"2014"	"Feb., 2014"	"2014/02"	4236	Not Applicable	Not Applicable
+	"Washington"	"53"	"2014"	"2014"	"Mar., 2014"	"2014/03"	4573	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"	"2014"	"2014"			8809	Not Applicable	Not Applicable
+	"Washington"	"53"	"2015"	"2015"	"Feb., 2015"	"2015/02"	4337	Not Applicable	Not Applicable
+	"Washington"	"53"	"2015"	"2015"	"Mar., 2015"	"2015/03"	4864	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"	"2015"	"2015"			9201	Not Applicable	Not Applicable
+	"Washington"	"53"	"2016"	"2016"	"Feb., 2016"	"2016/02"	4594	Not Applicable	Not Applicable
+	"Washington"	"53"	"2016"	"2016"	"Mar., 2016"	"2016/03"	4931	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"	"2016"	"2016"			9525	Not Applicable	Not Applicable
+	"Washington"	"53"	"2017"	"2017"	"Feb., 2017"	"2017/02"	4871	Not Applicable	Not Applicable
+	"Washington"	"53"	"2017"	"2017"	"Mar., 2017"	"2017/03"	4976	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"	"2017"	"2017"			9847	Not Applicable	Not Applicable
+	"Washington"	"53"	"2018"	"2018"	"Feb., 2018"	"2018/02"	4606	Not Applicable	Not Applicable
+	"Washington"	"53"	"2018"	"2018"	"Mar., 2018"	"2018/03"	5125	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"	"2018"	"2018"			9731	Not Applicable	Not Applicable
+"Total"	"Washington"	"53"					55970	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Feb., 2013"	"2013/02"	1744	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Mar., 2013"	"2013/03"	1994	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"	"2013"	"2013"			3738	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2014"	"2014"	"Feb., 2014"	"2014/02"	1858	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2014"	"2014"	"Mar., 2014"	"2014/03"	1898	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"	"2014"	"2014"			3756	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2015"	"2015"	"Feb., 2015"	"2015/02"	1989	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2015"	"2015"	"Mar., 2015"	"2015/03"	1990	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"	"2015"	"2015"			3979	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2016"	"2016"	"Feb., 2016"	"2016/02"	1856	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2016"	"2016"	"Mar., 2016"	"2016/03"	2020	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"	"2016"	"2016"			3876	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2017"	"2017"	"Feb., 2017"	"2017/02"	1894	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2017"	"2017"	"Mar., 2017"	"2017/03"	2121	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"	"2017"	"2017"			4015	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1898	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2082	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"	"2018"	"2018"			3980	Not Applicable	Not Applicable
+"Total"	"West Virginia"	"54"					23344	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Feb., 2013"	"2013/02"	4029	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Mar., 2013"	"2013/03"	4366	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"	"2013"	"2013"			8395	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2014"	"2014"	"Feb., 2014"	"2014/02"	4025	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2014"	"2014"	"Mar., 2014"	"2014/03"	4384	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"	"2014"	"2014"			8409	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2015"	"2015"	"Feb., 2015"	"2015/02"	4154	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2015"	"2015"	"Mar., 2015"	"2015/03"	4700	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"	"2015"	"2015"			8854	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2016"	"2016"	"Feb., 2016"	"2016/02"	4389	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2016"	"2016"	"Mar., 2016"	"2016/03"	4727	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"	"2016"	"2016"			9116	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2017"	"2017"	"Feb., 2017"	"2017/02"	4353	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2017"	"2017"	"Mar., 2017"	"2017/03"	4686	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"	"2017"	"2017"			9039	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2018"	"2018"	"Feb., 2018"	"2018/02"	4467	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2018"	"2018"	"Mar., 2018"	"2018/03"	4706	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"	"2018"	"2018"			9173	Not Applicable	Not Applicable
+"Total"	"Wisconsin"	"55"					52986	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Feb., 2013"	"2013/02"	353	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Mar., 2013"	"2013/03"	422	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"	"2013"	"2013"			775	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2014"	"2014"	"Feb., 2014"	"2014/02"	366	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2014"	"2014"	"Mar., 2014"	"2014/03"	364	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"	"2014"	"2014"			730	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2015"	"2015"	"Feb., 2015"	"2015/02"	385	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2015"	"2015"	"Mar., 2015"	"2015/03"	440	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"	"2015"	"2015"			825	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2016"	"2016"	"Feb., 2016"	"2016/02"	402	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2016"	"2016"	"Mar., 2016"	"2016/03"	433	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"	"2016"	"2016"			835	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2017"	"2017"	"Feb., 2017"	"2017/02"	391	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2017"	"2017"	"Mar., 2017"	"2017/03"	434	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"	"2017"	"2017"			825	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2018"	"2018"	"Feb., 2018"	"2018/02"	407	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2018"	"2018"	"Mar., 2018"	"2018/03"	467	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"	"2018"	"2018"			874	Not Applicable	Not Applicable
+"Total"	"Wyoming"	"56"					4864	Not Applicable	Not Applicable
+"Total"							2806359	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Year/Month: Feb., 2013; Mar., 2013; Feb., 2014; Mar., 2014; Feb., 2015; Mar., 2015; Feb., 2016; Mar., 2016; Feb., 2017; Mar.,"
+"2017; Feb., 2018; Mar., 2018"
+"Group By: State; Year; Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Apr 8, 2020 5:14:42 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Apr 8, 2020 5:14:42 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. These items in the results table are not fully selected: 2013, 2014, 2015, 2016, 2017, 2018. The Query Description lists the"
+"actual values selected."
