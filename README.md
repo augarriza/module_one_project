@@ -62,13 +62,13 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
    5. states_healthcare.csv: Health Insurance Dataset, csv
     
 #### Notebooks
-   I. Import_Cleaning
-   Notebooks used to import data from the different datasets:
-   1.cdc_api_access.ipynb: getting data from 'CDC Provisional Death Counts for Coronavirus Disease (COVID-19), API'
-   2.cleaning_census2017_kaggle_dataset.ipynb: cleaning data from 'acs2017_census_tract_data.csv'
-   3.cleaning_groupage_2017_dataset.ipynb: cleaning data from 'agegroups_us_population_2017.csv'
-   4.nytimes_mortality_to_data_frame.ipynb: cleaning data from 'nytimes_cumulative_covid_per_state.csv' and 'Mortality_March-              February_2013-2018.txt'
-   5.states_healthcare_to_df.ipynb: cleaning data from 'states_healthcare.csv'
+   I Import_Cleaning
+   Notebooks used to import data from datasets:
+   1. cdc_api_access.ipynb: getting data from 'CDC Provisional Death Counts for Coronavirus Disease (COVID-19), API'
+   2. cleaning_census2017_kaggle_dataset.ipynb: cleaning data from 'acs2017_census_tract_data.csv'
+   3. cleaning_groupage_2017_dataset.ipynb: cleaning data from 'agegroups_us_population_2017.csv'
+   4. nytimes_mortality_to_data_frame.ipynb: cleaning data from 'nytimes_cumulative_covid_per_state.csv' and 'Mortality_March-              February_2013-2018.txt'
+   5. states_healthcare_to_df.ipynb: cleaning data from 'states_healthcare.csv'
         
    II. Merging_Analysis
    Notebooks used to merge and analyse the data. Suggested order to follow:
