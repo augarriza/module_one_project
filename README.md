@@ -17,11 +17,11 @@ What is the truth behind all the dramatic headlines? Only data knows.This projec
 
 ## Questions & Hypotheses
 Our main hypotheses was that different socio-economical factors could have a direct impact on the amount of deaths due to Covid-19. In order to further analyse that, we focused on the United States of America given the notorious amount of public data available. Answering the following three main questions became the goal towards which we focused our efforts:
-    1. Compared to previous years, is there an actual increase in death counts taking the same time frame (February-March)?
-    2. Are there significant differences between states?
-    3. If so, could socio-economical factors or demographic indicators shed some light into it?
+#### 1. Compared to previous years, is there an actual increase in death counts taking the same time frame (February-March)?
+#### 2. Are there significant differences between states?
+#### 3. If so, could socio-economical factors or demographic indicators shed some light into it?
 
-## Dataset
+## Datasets
 #### New York Times COVID-19 Data, csv
 Pulled on April 8th from Github, State-Level Data for March 31st, 2020
 The dataset included a cumulative count of cases and deaths due to COVID19. To match our other data, we chose data for all states on March 31st, 2020. The cumulative aspect helped us match our next dataset. 
@@ -54,22 +54,22 @@ The dataset shows the age groups for each state from 2017.
 https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
 
 ## Folders and Files
-    #### Datasets
-    .acs2017_census_tract_data.csv : US Census Demographic Data, csv
-    .agegroups_us_population_2017.csv: Population Distribution by Age, csv
-    .Mortality_March-February_2013-2018.txt: CDC Wonder Interface About Underlying Cause of Death, 1999 - 2018, txt
-    .nytimes_cumulative_covid_per_state.csv: New York Times COVID-19 Data, csv
-    .states_healthcare.csv: Health Insurance Dataset, csv
+#### Datasets
+   1. acs2017_census_tract_data.csv : US Census Demographic Data, csv
+   2. agegroups_us_population_2017.csv: Population Distribution by Age, csv
+   3. Mortality_March-February_2013-2018.txt: CDC Wonder Interface About Underlying Cause of Death, 1999 - 2018, txt
+   4. nytimes_cumulative_covid_per_state.csv: New York Times COVID-19 Data, csv
+   5. states_healthcare.csv: Health Insurance Dataset, csv
     
-    #### Notebooks
-    I. Import_Cleaning
-     .cdc_api_access.ipynb: getting data from 'CDC Provisional Death Counts for Coronavirus Disease (COVID-19), API'
-     .cleaning_census2017_kaggle_dataset.ipynb: cleaning data from 'acs2017_census_tract_data.csv'
-     .cleaning_groupage_2017_dataset.ipynb: cleaning data from 'agegroups_us_population_2017.csv'
-     .nytimes_mortality_to_data_frame.ipynb: cleaning data from 'nytimes_cumulative_covid_per_state.csv' and 'Mortality_March-               February_2013-2018.txt'
-     .states_healthcare_to_df.ipynb: cleaning data from 'states_healthcare.csv'
+#### Notebooks
+   I. Import_Cleaning
+     1.cdc_api_access.ipynb: getting data from 'CDC Provisional Death Counts for Coronavirus Disease (COVID-19), API'
+     2.cleaning_census2017_kaggle_dataset.ipynb: cleaning data from 'acs2017_census_tract_data.csv'
+     3.cleaning_groupage_2017_dataset.ipynb: cleaning data from 'agegroups_us_population_2017.csv'
+     4.nytimes_mortality_to_data_frame.ipynb: cleaning data from 'nytimes_cumulative_covid_per_state.csv' and 'Mortality_March-              February_2013-2018.txt'
+     5.states_healthcare_to_df.ipynb: cleaning data from 'states_healthcare.csv'
         
-    II. Merging_Analysis: notebooks used to merge and analyse the data. Suggested order to follow:
+   II. Merging_Analysis: notebooks used to merge and analyse the data. Suggested order to follow:
      1. Merging_nytimes_and_all_deaths_perstate _df.ipynb
      2. merging_cdc_mortality.ipynb
      3. Further_analysis_nyt_cdc_covid_deathrates.ipynb
@@ -78,8 +78,8 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
      6. merging__census_pop_income__healthcare__agegroups_mortality.ipynb
      7. Tennessee_California_Florida.ipynb
      
-    #### Pickles
-    All the dataframes created through the process of analysis. Suggested order to follow:
+#### Pickles
+   All the dataframes created through the process of analysis. Suggested order to follow:
     1. nytimes.pkl
     2. cdc_deaths_all_causes.pkl
     3. deaths_all_causes_bystate.pkl
@@ -114,9 +114,4 @@ We then decided not to try and bring any conclusion to the table.
 However, we also realised that we had gathered some interesting data and we are happy to share it with the community hoping it can be of help for anyone who is in a place we are not at the moment and thus capable of reaching higher conclusions.
 
 
-## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en) 
