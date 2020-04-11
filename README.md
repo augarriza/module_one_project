@@ -63,7 +63,7 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
     
 #### Notebooks
    I. Import_Cleaning
-   Notebooks used to import data from the different datasets
+   Notebooks used to import data from the different datasets:
    1.cdc_api_access.ipynb: getting data from 'CDC Provisional Death Counts for Coronavirus Disease (COVID-19), API'
    2.cleaning_census2017_kaggle_dataset.ipynb: cleaning data from 'acs2017_census_tract_data.csv'
    3.cleaning_groupage_2017_dataset.ipynb: cleaning data from 'agegroups_us_population_2017.csv'
@@ -81,7 +81,7 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
    7. Tennessee_California_Florida.ipynb
      
 #### Pickles
-   All the dataframes created through the process of analysis. Suggested order to follow:
+   All the data frames created through the process. Suggested order to follow:
    1. nytimes.pkl
    2. cdc_deaths_all_causes.pkl
    3. deaths_all_causes_bystate.pkl
