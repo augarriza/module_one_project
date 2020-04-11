@@ -63,38 +63,40 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
     
 #### Notebooks
    I. Import_Cleaning
-     1.cdc_api_access.ipynb: getting data from 'CDC Provisional Death Counts for Coronavirus Disease (COVID-19), API'
-     2.cleaning_census2017_kaggle_dataset.ipynb: cleaning data from 'acs2017_census_tract_data.csv'
-     3.cleaning_groupage_2017_dataset.ipynb: cleaning data from 'agegroups_us_population_2017.csv'
-     4.nytimes_mortality_to_data_frame.ipynb: cleaning data from 'nytimes_cumulative_covid_per_state.csv' and 'Mortality_March-              February_2013-2018.txt'
-     5.states_healthcare_to_df.ipynb: cleaning data from 'states_healthcare.csv'
+   Notebooks used to import data from the different datasets
+   1.cdc_api_access.ipynb: getting data from 'CDC Provisional Death Counts for Coronavirus Disease (COVID-19), API'
+   2.cleaning_census2017_kaggle_dataset.ipynb: cleaning data from 'acs2017_census_tract_data.csv'
+   3.cleaning_groupage_2017_dataset.ipynb: cleaning data from 'agegroups_us_population_2017.csv'
+   4.nytimes_mortality_to_data_frame.ipynb: cleaning data from 'nytimes_cumulative_covid_per_state.csv' and 'Mortality_March-              February_2013-2018.txt'
+   5.states_healthcare_to_df.ipynb: cleaning data from 'states_healthcare.csv'
         
-   II. Merging_Analysis: notebooks used to merge and analyse the data. Suggested order to follow:
-     1. Merging_nytimes_and_all_deaths_perstate _df.ipynb
-     2. merging_cdc_mortality.ipynb
-     3. Further_analysis_nyt_cdc_covid_deathrates.ipynb
-     4. cdc_and_mortality_without_covid.ipynb
-     5. cdc_mortality_df_analysis_and_plotting.ipynb
-     6. merging__census_pop_income__healthcare__agegroups_mortality.ipynb
-     7. Tennessee_California_Florida.ipynb
+   II. Merging_Analysis
+   Notebooks used to merge and analyse the data. Suggested order to follow:
+   1. Merging_nytimes_and_all_deaths_perstate _df.ipynb
+   2. merging_cdc_mortality.ipynb
+   3. Further_analysis_nyt_cdc_covid_deathrates.ipynb
+   4. cdc_and_mortality_without_covid.ipynb
+   5. cdc_mortality_df_analysis_and_plotting.ipynb
+   6. merging__census_pop_income__healthcare__agegroups_mortality.ipynb
+   7. Tennessee_California_Florida.ipynb
      
 #### Pickles
    All the dataframes created through the process of analysis. Suggested order to follow:
-    1. nytimes.pkl
-    2. cdc_deaths_all_causes.pkl
-    3. deaths_all_causes_bystate.pkl
-    4. deaths_allcauses_byage.pkl
-    5. nytimes_cdcapi_combined.pkl
-    6. nytimes_cdcapi_withmortality.pkl
-    7. cdc_mortality_df.pkl
-    8. cdc_mortality_no_covid_df.pkl
-    9. cdc_morality_to_merge.pkl
-    10. mortality_aggregation.pkl
-    11. df_census_tp_gender.csv
-    12. df_census_income.csv
-    13. df_census_groupage.csv
-    14. healthcare_percentage.pkl
-    15. final_df.pkl
+   1. nytimes.pkl
+   2. cdc_deaths_all_causes.pkl
+   3. deaths_all_causes_bystate.pkl
+   4. deaths_allcauses_byage.pkl
+   5. nytimes_cdcapi_combined.pkl
+   6. nytimes_cdcapi_withmortality.pkl
+   7. cdc_mortality_df.pkl
+   8. cdc_mortality_no_covid_df.pkl
+   9. cdc_morality_to_merge.pkl
+   10. mortality_aggregation.pkl
+   11. df_census_tp_gender.csv
+   12. df_census_income.csv
+   13. df_census_groupage.csv
+   14. healthcare_percentage.pkl
+   15. final_df.pkl
     
 
 
