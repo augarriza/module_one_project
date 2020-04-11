@@ -5,18 +5,18 @@
 
 ## Content
 - [Project Description](#project-description)
-- [Questions & Hypotheses](#questions-hypotheses)
-- [Dataset](#dataset)
+- [Questions & Hypotheses](#questions-and-hypothesis)
+- [Dataset](#datasets)
 - [Database](#database)
 - [Workflow](#workflow)
-- [Links](#links)
+- [Conclusions](#conclusions)
+- [Errata](#errata)
 
 ## Project Description
-Thousands of deaths per day, hundreds of millions of citizens asked, when not forced, to stay home, national health systems on the verge of collapsing, borders closed, some of the strongest economies in the world forseeing a contraction of their GDP by more than 8 points. The human civilisation forced to look at its reflection on the mirror due to a previously unknown virus named Covid-19.
-What is the truth behind all the dramatic headlines? Only data knows.This project is our humble attempt to better understand.
+COVID-19 has swept the world and caused many casualities, with severe economic consequences. We decided to look at the impact of COVID-19 on deaths between February and March in the US. 
 
-## Questions & Hypotheses
-Our main hypotheses was that different socio-economical factors could have a direct impact on the amount of deaths due to Covid-19. In order to further analyse that, we focused on the United States of America given the notorious amount of public data available. Answering the following three main questions became the goal towards which we focused our efforts:
+## Questions and Hypothesis
+Our main hypothesis was that different socio-economical factors could have a direct impact on the amount of deaths due to Covid-19. We focused on the United States given the ample amount of public data available. Answering the following three main questions became the goal towards which we focused our efforts:
 #### 1. Compared to previous years, is there an actual increase in death counts taking the same time frame (February-March)?
 #### 2. Are there significant differences between states?
 #### 3. If so, could socio-economical factors or demographic indicators shed some light into it?
@@ -98,22 +98,29 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
    14. healthcare_percentage.pkl
    15. final_df.pkl
     
-
-
 ## Database
 Our database is broken down into two tables, one focusing on the mortality per state over time and the second focusing on demographic data per state. We have pulled the 2020 death difference from 2018 and the overall death count from our mortality table into our demographic table. See our relational schema below:
 
+
+
 ## Workflow
-1. We collected data on death counts per state from several sources in order to obtain: cummulative death counts due to Covid per state for February and March, cummulative death counts for all causes per state for February and March, historical cummulative death counts per state for February and March
-2. On parallel, we collected data to create our second table focused on demographic and socio-economical indicators per state
-3. We combined the data to create our first table focused on the mortality per state over time
-4. Based on our "mortality table", we decided to focus on the states with a largest increase in death counts from 2018 to 2020.
-5. We then digged into our "dempographic table" and ranked all the states based on three indicators that we considered could have a direct impact on deaths due to Covid-19: the percentage of uninsured population, the percentage of population over 65 years and the percentage of population living under the threshold of poverty.
+1. We collected data on death counts per state from several sources in order to obtain: 
+* cummulative death counts due to Covid per state for February and March in 2020
+* cummulative death counts for all causes per state for February and March 2020
+* historical cummulative death counts per state for February and March from 2013-2018
+2. In parallel, we collected data to create our second table focused on demographic and socio-economical indicators per state.
+3. We combined the data to create our first table, which focused on the mortality per state over time.
+4. Based on our "mortality table", we decided to focus on the states with the largest increase in death counts from 2018 to 2020.
+5. We then dug into our "demographic table" and ranked all the states based on three indicators that we considered could have a direct impact on deaths due to Covid-19: 
+* the percentage of uninsured population
+* the percentage of population over 65 years
+* the percentage of population living under the poverty line
 
 ## Conclusions
-After collecting, cleaning and combining all our data we took a step back and asked ourselves whether we were actually capable of moving further with our analysis. We both realised that our data was lacking accuracy and our tools as junior data analysts were not enough to study in more depth a topic that has proven to be of great complexity even for experienced scientists.
-We then decided not to try and bring any conclusion to the table.
-However, we also realised that we had gathered some interesting data and we are happy to share it with the community hoping it can be of help for anyone who is in a place we are not at the moment and thus capable of reaching higher conclusions.
+From our preliminary analysis, we found that Florida, California, and Tennessee has the largest increase in death count between 2018 and 2020. Florida and Tennessee also ranked high in the rate of uninsured population and population over 65. The role of COVID-19 and these socio-economic factors in this increase could be determined with further analysis once more data is available.
+
+## Errata 
+Please note that while cleaning our data, we mistakenly removed New York City deaths - instead of merging these counts with those of New York state. This may have impacted results, in particular, state ranking of increase in deaths. In addition, our state ranking data was not normalized based on state population, which could impact results. 
 
 
 
