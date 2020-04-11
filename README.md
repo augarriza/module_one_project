@@ -100,8 +100,8 @@ https://www.kff.org/other/state-indicator/distribution-by-age/?currentTimeframe=
     
 ## Database
 Our database is broken down into two tables, one focusing on the mortality per state over time and the second focusing on demographic data per state. We have pulled the 2020 death difference from 2018 and the overall death count from our mortality table into our demographic table. See our relational schema below:
-
-
+![State Demographic Table](https://user-images.githubusercontent.com/60402908/79050001-5f243a80-7c27-11ea-83f4-3a3811f709a0.png)
+![Mortality Over Time Table](https://user-images.githubusercontent.com/60402908/79049999-5cc1e080-7c27-11ea-8f25-33be92ed00b9.png)
 
 ## Workflow
 1. We collected data on death counts per state from several sources in order to obtain: 
@@ -121,6 +121,3 @@ From our preliminary analysis, we found that Florida, California, and Tennessee 
 
 ## Errata 
 Please note that while cleaning our data, we mistakenly removed New York City deaths - instead of merging these counts with those of New York state. This may have impacted results, in particular, state ranking of increase in deaths. In addition, our state ranking data was not normalized based on state population, which could impact results. 
-
-
-
